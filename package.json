@@ -1,5 +1,7 @@
 {
   
+  "homepage": "https://Abhay2201-Av.github.io/AV-PORTFOLIO",
+
   "name": "abhay-portfolio",
   
   "version": "0.1.0",
@@ -80,7 +82,6 @@
   
     
   "start": "react-scripts start",
-  
     
   "build": "react-scripts build",
   
