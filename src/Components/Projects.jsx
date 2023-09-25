@@ -111,7 +111,7 @@ function Projects() {
             aria-label="Send email"
             icon={<BsGithub />}
             onClick={() => {
-              window.open("https://github.com/Rutu-11/My_Portfolio", "_blank");
+              window.open("https://github.com/Abhay2201-Av/AV-PORTFOLIO", "_blank");
             }}
           />
 
@@ -123,7 +123,7 @@ function Projects() {
             aria-label="Send email"
             icon={<AiOutlineEye />}
             onClick={() => {
-              window.open("https://rutu-11.github.io/My_Portfolio/", "_blank");
+              window.open("https://abhay2201-av.github.io/AV-PORTFOLIO/", "_blank");
             }}
           />
           
