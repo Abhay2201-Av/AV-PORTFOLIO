@@ -76,7 +76,31 @@ function Skills() {
             <Text>Git</Text>
         </Flex>
           
-       
+        <Flex data-aos="zoom-in">
+        <img
+            src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"
+            alt="netlify"
+          />
+            <Text>Netlify</Text>
+
+        </Flex>
+        
+        <Flex data-aos="zoom-in">
+        <img
+            src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+            alt="visualstudio"
+          />
+            <Text>Visualstudio</Text>
+        </Flex>
+
+        <Flex data-aos="zoom-in">
+        <img
+            src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"
+            alt="npm"
+          />
+            <Text>Npm</Text>
+        </Flex>
+      
     </Flex>
 
       <Flex className="my-record">
