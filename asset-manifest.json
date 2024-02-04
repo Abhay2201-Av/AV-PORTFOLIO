@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AV-PORTFOLIO/static/css/main.58ca27ba.css",
+    "main.js": "/AV-PORTFOLIO/static/js/main.cbfefbd8.js",
+    "static/media/a1.jpg": "/AV-PORTFOLIO/static/media/a1.49a60910cfcd799cef1d.jpg",
+    "index.html": "/AV-PORTFOLIO/index.html",
+    "main.58ca27ba.css.map": "/AV-PORTFOLIO/static/css/main.58ca27ba.css.map",
+    "main.cbfefbd8.js.map": "/AV-PORTFOLIO/static/js/main.cbfefbd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ca27ba.css",
+    "static/js/main.cbfefbd8.js"
+  ]
+}
